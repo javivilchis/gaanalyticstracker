@@ -1,5 +1,7 @@
 # Google Analytics 4 (GA4) Data Extraction Script
 
+![Python Version](https://img.shields.io) [![PyPI](https://img.shields.io)](https://pypi.org) ![License](https://img.shields.io) [![Build Status](https://github.com)](https://github.com)
+
 This project contains a Python script to programmatically extract data from Google Analytics 4 using the [Google Analytics Data API (v1beta)](https://developers.google.com/analytics/devguides/reporting/data/v1).
 
 ---
