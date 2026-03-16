@@ -1,0 +1,22 @@
+# Python environment
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Google Cloud Credentials (CRITICAL)
+# Do not commit your JSON service account keys!
+*.json
+credentials.json
+auth.json
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data exports
+*.csv
+*.xlsx
